@@ -1,13 +1,13 @@
 ## **Licenses Tab**
-![image](https://user-images.githubusercontent.com/79049205/177780189-2db6d08c-a2d3-4c41-8a82-d0e957369344.png)
+![image](https://user-images.githubusercontent.com/79049205/177867062-4f48fcbd-ae84-42ba-a2d3-92de2914cf3d.png)
 ## **Users Tab**
-![image](https://user-images.githubusercontent.com/79049205/177780351-7ff2745d-d998-4766-a8d9-e68cdb6e6663.png)
+![image](https://user-images.githubusercontent.com/79049205/177867186-6885da69-9684-41b3-9cc6-e0af4523cb10.png)
 
 ## **Subscriptions Tab**
 ![image](https://user-images.githubusercontent.com/79049205/177780389-1a4fd7b9-42b5-4247-9a82-d00885a549ef.png)
 
 ## **Files Tab**
-![image](https://user-images.githubusercontent.com/79049205/177780582-53e1d7bc-e7fb-4840-b3df-bb21789a783d.png)
+![image](https://user-images.githubusercontent.com/79049205/177867303-24099ad7-1d1a-409e-a5e9-53c03ad16a95.png)
 
 ## **Variables Tab**
 ![image](https://user-images.githubusercontent.com/79049205/177780609-e5d4ab81-65c0-450d-be9d-feb655af9720.png)
