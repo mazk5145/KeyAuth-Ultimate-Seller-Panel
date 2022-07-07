@@ -27,5 +27,8 @@
 - [ ] Add Example Assist
 - [ ] Add Site Loading Animations
 - [ ] Better KeyAuth.php File
+- [ ] Clean the Code
+- [ ] Clean Configs
+- [ ] Fix User create expiry timepicker
 
 ###### This sellerpanel will include EVERYTHING from https://docs.keyauth.com/ NO ETA WHEN GOING TO PUBLISH IT.
