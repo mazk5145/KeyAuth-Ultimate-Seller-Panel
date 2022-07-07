@@ -12,5 +12,20 @@
 - [x] Delete all Keys
 - [ ] KeyAuth PHP HTML Chat Examples.
 - [ ] KeyAuth Application Settings to Sellerpanel.
+- [x] New Vertical Sidebar
+- [x] Create user on Users tab
+- [x] Ban / Unban Users
+- [x] Download / Remove Files
+- [x] License Add / Remove unused / All
+- [ ] Blacklist Remove / Add
+- [ ] Variable Remove / Add / Edit
+- [ ] Subscriptions Add / Remove / Edit
+- [ ] Chats Tab
+- [ ] Modern SellerAPI Plugin
+- [ ] Nav Bar x Dropdown menu NEW
+- [ ] Add News
+- [ ] Add Example Assist
+- [ ] Add Site Loading Animations
+- [ ] Better KeyAuth.php File
 
 ###### This sellerpanel will include EVERYTHING from https://docs.keyauth.com/ NO ETA WHEN GOING TO PUBLISH IT.
