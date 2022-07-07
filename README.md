@@ -4,7 +4,7 @@
 ### Todo List
 - [x] Tabs for Licenses, Users, Vars, Subs, BLsts, Btns.
 - [x] Profile Pictures and it saving to KeyAuth.
-- [ ] Discord Linking to KeyAuth User.
+- [x] Discord Linking to KeyAuth User.
 - [x] GitHub Linking to KeyAuth User.
 - [ ] KeyAuth PHP HTML Chat Examples.
 - [ ] KeyAuth Application Settings to Sellerpanel.
