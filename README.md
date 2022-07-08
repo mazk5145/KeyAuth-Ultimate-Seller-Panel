@@ -17,6 +17,7 @@
 - [x] Ban / Unban Users
 - [x] Download / Remove Files
 - [x] License Add / Remove unused / All
+- [x] License creator add sub selector
 - [ ] Blacklist Remove / Add
 - [ ] Variable Remove / Add / Edit
 - [ ] Subscriptions Add / Remove / Edit
