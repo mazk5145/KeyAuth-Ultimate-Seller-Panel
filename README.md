@@ -18,6 +18,7 @@
 - [x] Download / Remove Files
 - [x] License Add / Remove unused / All
 - [x] License creator add sub selector
+- [x] 404 Tab Page if php $_GET["tab"] is set wrongly
 - [ ] Blacklist Remove / Add
 - [ ] Variable Remove / Add / Edit
 - [ ] Subscriptions Add / Remove / Edit
