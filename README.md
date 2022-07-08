@@ -19,10 +19,11 @@
 - [x] License Add / Remove unused / All
 - [x] License creator add sub selector
 - [x] 404 Tab Page if php $_GET["tab"] is set wrongly
+- [x] Sessions Tab
+- [x] Chats Tab
 - [ ] Blacklist Remove / Add
 - [ ] Variable Remove / Add / Edit
 - [ ] Subscriptions Add / Remove / Edit
-- [ ] Chats Tab
 - [ ] Modern SellerAPI Plugin
 - [ ] Nav Bar x Dropdown menu NEW
 - [ ] Add News
