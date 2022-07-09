@@ -21,9 +21,9 @@
 - [x] 404 Tab Page if php $_GET["tab"] is set wrongly
 - [x] Sessions Tab
 - [x] Chats Tab
-- [ ] Blacklist Remove / Add
-- [ ] Variable Remove / Add / Edit
-- [ ] Subscriptions Add / Remove / Edit
+- [x] Blacklist Remove / Add
+- [x] Variable Remove / Add / Edit
+- [x] Subscriptions Add / Remove / Edit
 - [ ] Modern SellerAPI Plugin
 - [ ] Nav Bar x Dropdown menu NEW
 - [ ] Add News
