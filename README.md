@@ -3,7 +3,7 @@
 
 ### Todo List
 - [x] Tabs for Licenses, Users, Vars, Subs, BLsts, Btns.
-- [x] Profile Pictures and it saving to KeyAuth.
+- [x] Profile Pictures and it saving to KeyAuth. [ImGur API Used]
 - [x] Discord Linking to KeyAuth User.
 - [x] GitHub Linking to KeyAuth User.
 - [ ] Steam Linking to KeyAuth User.
