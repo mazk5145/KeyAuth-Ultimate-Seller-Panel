@@ -19,4 +19,4 @@
 ![image](https://user-images.githubusercontent.com/79049205/177780697-0c1d8099-5479-4ae0-9c4c-ec84990ed55f.png)
 
 ## **Settings / Account Linking**
-![image](https://user-images.githubusercontent.com/79049205/177805376-1261b6ce-07d8-487f-94d1-49801ef40b20.png)
+![image](https://user-images.githubusercontent.com/79049205/178107192-0c2dba6d-451a-4c4f-8527-c37a501368dd.png)
